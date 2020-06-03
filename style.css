@@ -8,9 +8,18 @@ p {
 
 #hero-div {
   margin-top: 1.2em;
-  margin-bottom: 1em;
+  margin-bottom: 5rem;
 }
 
-#btn-col {
+#btn-col,
+#hero-desc {
   text-align: center;
+}
+
+html {
+  font-size: 1rem;
+}
+
+#buy-link-out {
+  font-size: 1.3em;
 }
