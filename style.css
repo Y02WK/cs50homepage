@@ -23,3 +23,7 @@ html {
 #buy-link-out {
   font-size: 1.3em;
 }
+
+.card-text {
+  color: rgb(34, 34, 34);
+}
