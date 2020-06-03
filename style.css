@@ -1,3 +1,16 @@
 body {
   background-color: rgb(34, 34, 34);
 }
+
+p {
+  color: rgb(223, 223, 223);
+}
+
+#hero-div {
+  margin-top: 1.2em;
+  margin-bottom: 1em;
+}
+
+#btn-col {
+  text-align: center;
+}
